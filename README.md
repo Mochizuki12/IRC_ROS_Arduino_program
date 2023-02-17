@@ -1,6 +1,7 @@
 # IRC_ROS_Arduino_program<br>
 知能ロボットコンテストで使用するROSを用いたプログラムのArduino用プログラム<br>
 ROS使用時にI2C通信が使用可能かどうかは試していない<br>
+Arduino IDEでコンパイル<br>
 
 ---
 
